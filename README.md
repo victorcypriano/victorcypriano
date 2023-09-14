@@ -11,14 +11,14 @@
 
 ## Hey 👋, Bem vindo ao meu perfil do Github
 
-📰 Tenho 32 anos e moro em São Paulo - SP, engenheiro eletrônico de formação e cientista de dados de coração e agora em formação 🙏, estou buscando uma transição de carreira e aqui você pode ver um pouco dos projetos que tenho feito!
+📰 Tenho 33 anos e moro em São Paulo - SP, engenheiro eletrônico de formação e cientista de dados de coração e agora em formação 🙏, transição de carreira pode não ser tão fácil assim, então aqui trabalho em alguns projetos e tento trazer um pouquinho de contribuição para esse universo que é o Data Science.
 
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://powerapps.microsoft.com/images/application-logos/svg/powerbi.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
 
 
-📚 Tenho estudado muito Python e Power BI, além de navegar por outras ferramentas como R, SQL, C# e Java Script, todo aprendizado é bem vindo.
+📚 Tenho estudado muito Python, Power BI e R, além de navegar por outras ferramentas como, SQL, C# e Java Script, todo aprendizado é bem vindo.
 
 ✈️ 🌄 🚵 🤿 Sou viciado em aventuras, então quando não estou programando, você pode em encontrar em qualquer buraco no meio do mato, no pico de uma montanha ou em baixo do mar.
 
