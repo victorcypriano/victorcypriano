@@ -11,7 +11,7 @@
 
 ## Hey 👋, Bem vindo ao meu perfil do Github
 
-📰 Tenho 33 anos e moro em São Paulo - SP, engenheiro eletrônico de formação e cientista de dados de coração e agora em formação 🙏, transição de carreira pode não ser tão fácil assim, então aqui trabalho em alguns projetos e tento trazer um pouquinho de contribuição para esse universo que é o Data Science.
+📰 Tenho 35 anos e moro em São Paulo - SP, formado em Engenharia elétrica e com MBA em Data Science e Analytcs pela USP, aqui trabalho em alguns projetos e tento trazer um pouquinho de contribuição para esse universo que é o Data Science.
 
 ## Ferramentas e Tecnologias
 
@@ -23,7 +23,7 @@
 ✈️ 🌄 🚵 🤿 Sou viciado em aventuras, então quando não estou programando, você pode em encontrar em qualquer buraco no meio do mato, no pico de uma montanha ou em baixo do mar.
 
 
-📫 Se quiser falar comigo é mandar um <a href="mailto:victortcypriano@gmail.com/">e-mail</a>, ou me dar um oi no <a href="https://www.instagram.com/victorcypriano/">instagram</a>, prometo responder!
+📫 Se quiser falar comigo é só mandar um <a href="mailto:victortcypriano@gmail.com/">e-mail</a>, ou me dar um oi no <a href="https://www.instagram.com/victorcypriano/">instagram</a>, prometo responder!
 Podem conhecer meus projetos já desenvolvidos aqui nos repositórios, aceito sugestões e colaborações.
 
 
